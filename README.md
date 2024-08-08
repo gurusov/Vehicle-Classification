@@ -31,4 +31,5 @@ Running this project
 IMAGE_NAME.jpg OUTPUTNAME.jpg Replace IMAGE_NAME and OUTPUTNAME with your photo names
 9. Enjoy running the Vehicle detector!
 
-[View a video explanation here](video link)
+[[View a video explanation here](video link)
+](https://youtu.be/dp-IOo1NZpI)
